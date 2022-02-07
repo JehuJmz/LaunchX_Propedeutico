@@ -1,5 +1,6 @@
 # LaunchX_Propedeutico
 Febrero 2022
+
 El presente repositorio contiene ejercicios (Katas) correspondientes al programa LaunchX de Microsoft.
 
 Contenido
