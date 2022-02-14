@@ -14,6 +14,7 @@ Contenido
 -(Kata Modulo 4) Cadenas. Usa uno de los tipos más comunes en Python para representar texto. Desde el formateo simple hasta la representación de variables, el uso de cadenas operativas es una habilidad fundamental para los desarrolladores de Python.	
 
 -(Kata Modulo 5) Usar lógica booleana. Casi todas las aplicaciones que crea un desarrollador involucran algún nivel de matemáticas. Este módulo explorarás la funcionalidad central en Python y los operadores aritméticos. También explorarás cómo realizar más manipulaciones de datos y números. Pondrás este conocimiento en uso para crear un proyecto.	
+
 -(Kata Modulo 6) Cadenas. A menudo trabajarás con múltiples valores en un programa. En Python, puedes agrupar datos usando listas. En este módulo, aprenderás a usar listas y cuáles son las tareas más comunes con las listas.	
 
 -(Kata Modulo 7) Usar operaciones matemáticas. Con Python, puedes usar ciclos while para ejecutar la misma tarea varias veces y ciclos for para repetir una vez sobre los datos de la lista. En este módulo, aprenderás sobre los dos tipos de ciclos y cuándo aplicar cada uno.	
