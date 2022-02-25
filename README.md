@@ -29,4 +29,3 @@ Contenido
 
 
 
-Autor: Jahdiel Jehú Jiménez Ramírez.
